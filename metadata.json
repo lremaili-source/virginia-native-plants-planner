@@ -1,0 +1,6 @@
+{
+  "name": "Virginia Native Garden Planner",
+  "description": "A plant-selection database and garden planning tool for Virginia gardeners, grounded strictly in the 2023 Virginia Cooperative Extension (VCE) Gardener Handbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
